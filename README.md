@@ -317,7 +317,7 @@ def pilih_super ():
 				print '\ x1b [1; 94m [• ⚔ •] \ x1b [1; 91mID \ x1b [1; 91m ✯ \ x1b [1; 92m' + utilisateur											
 				print '\ x1b [1; 94m [• ⚔ •] \ x1b [1; 91mMot de passe \ x1b [1; 91m✯ \ x1b [1; 92m' + passe1 + '\ n'											
 				oks.append (utilisateur + pass1)
-                        autre:
+                       autre:
 			        si 'www.facebook.com' dans q ["error_msg"]:
 				    imprimer '\ x1b [1; 94m [❥] \ x1b [1; 94mPoint de contrôle' '
 				    print '\ x1b [1; 94m [• ⚔ •] \ x1b [1; 94mNom \ x1b [1; 94m ✯ \ x1b [1; 95m' + b ['nom']
